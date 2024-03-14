@@ -1,0 +1,50 @@
+{
+  "faq": [
+    {
+      "keywords": ["quanto", "quantos", "cursos", "tem", "universidade", "quais"],
+      "answer": "A Universidade Federal do Campus Russas, tem 5 cursos: Engenharia de Software, Engenharia Civil, Ciência da computação, Engenharia de Produção e Engenharia Mecânica."
+    },
+    {
+      "keywords": ["horario", "funcionamento", "aberto"],
+      "answer": "A Universidade se encontra aberta até as 21hrs, mas só tem aula até às 17:30, porém entre as 18:00 ás 20:30 tem alguns cursos complementares."
+    },
+    {
+      "keywords": ["prédio", "arquitetura", "predio"],
+      "answer": "O Museu do Doce está situado em um prédio histórico no centro de Pelotas, que foi cuidadosamente restaurado para abrigar o museu. A arquitetura do prédio é um destaque, com detalhes que remetem à época áurea da produção de doces na cidade."
+    },
+    {
+      "keywords": ["quanto", "quais", "bolsas", "auxilios"],
+      "answer": " Auxilio Moradia: destinado ao publico que não tem familia que mora perto do campus, valor : R$ 910,00, BIA ( Bolsa de Iniciação Cientifica ), valor: 700, Auxilio Creche, Auxilio Emergencial, Auxilio Ingressante"
+    },
+    {
+      "keywords": ["cadeiras", "obrigatorias"],
+      "answer": " Duas cadeiras de 64hrs, ou seja, cadeiras que tenham aula duas vezes por semana as duas."    },
+    {
+      "keywords": ["prefeito", "politico", "prefeitura", "político"],
+      "answer": "O prefeito de Pelotas na época da criação do Museu do Doce em 2004 era Bernardo de Souza."
+    },
+    {
+      "keywords": ["cômodos", "quantidade", "comodos"],
+      "answer": "O número exato de cômodos no Museu do Doce pode variar dependendo das exposições e da configuração atual. Recomenda-se entrar em contato com o museu para obter informações específicas."
+    },
+    {
+      "keywords": ["peças", "exibidas"],
+      "answer": "O número de peças exibidas no Museu do Doce pode variar dependendo das exposições temporárias e permanentes. Para informações atualizadas, é aconselhável visitar o site oficial do museu ou entrar em contato diretamente."
+    },
+    {
+      "keywords": ["estilo arquitetônico", "prédio", "arquitetura", "estilo arquitetonico"],
+      "answer": "O prédio do Museu do Doce é um exemplo da arquitetura neoclássica, característica de muitos edifícios históricos em Pelotas."
+    },
+    {
+      "keywords": ["arquiteto", "prédio", "predio"],
+      "answer": "As informações específicas sobre o arquiteto responsável pelo prédio do Museu do Doce não estão prontamente disponíveis. É recomendável entrar em contato com o museu para obter detalhes sobre a história arquitetônica do edifício."
+    },
+    {
+      "keywords": ["endereço", "local", "chegar"],
+      "answer": "O Museu está localizado no centro da cidade de Pelotas, no endereço Praça Coronel Pedro Osório, Casarão 8 - Centro, Pelotas - RS, 96015-010"
+    }
+  ],
+  "default": "Desculpe, mas no momento não consigo responder sua pergunta. Você pode entrar em contato com a secretaria do Museu do Doce através do número: (53) 3284-4322"
+}
+
+
